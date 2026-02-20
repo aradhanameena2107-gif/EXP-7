@@ -276,22 +276,20 @@ ALGORITHM -
 
  - Stop
 
-14. Print Only Odd Numbers (1 to 10)
+(14). Print Only Odd Numbers (1 to 10)
 
-Algorithm:
+- Start
 
-Start
+- Set i = 0
 
-Set i = 0
+- While i < 10
 
-While i < 10
+    ~ Increment i
 
-Increment i
+    ~ If i is even
 
-If i is even
+    ~ Continue to next iteration
 
-Continue to next iteration
+- Print i
 
-Print i
-
-Stop
+- Stop
